@@ -2,11 +2,11 @@ module.exports = {
   // 数据库类型
   dialect: 'mysql',
   // 数据库主机地址
-  host: 'localhost',
+  host: '129.211.5.9',
   // 用户名
   user: 'root',
   // 密码
-  pass: 'root',
+  pass: 'Wj123456!',
   // 端口号
   port: 3306,
   // 数据库名
